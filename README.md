@@ -1,8 +1,8 @@
 # BigData_Assignment-3.1
 BigData_Assignment-3.1
 
-AllFilesInAPath.java:		Task no.1
+AllFilesInAPath.txt:		Task no.1
 
-AllFilesRecursively.java:	Task no.2
+AllFilesRecursively.txt:	Task no.2
 
-TwoPathFiles.java:		Task no.3
+TwoPathFiles.txt:		Task no.3
